@@ -1,0 +1,6 @@
+{
+  "name": "TaskPilot AI",
+  "description": "An AI-powered productivity assistant that helps students and professionals manage tasks, deadlines, habits, and schedules.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
